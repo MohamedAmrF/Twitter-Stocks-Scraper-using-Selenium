@@ -24,6 +24,7 @@ pip install -r requirements.txt
 Update the USERNAME and PASSWORD variables in the script with your Twitter login credentials.
 
 ## Script Usage
+Before running the script add the username and password of your twitter account in lines 14 and 15.
 1. Run the script:
 
 ```bash
