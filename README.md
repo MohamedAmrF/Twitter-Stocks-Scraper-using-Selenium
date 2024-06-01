@@ -17,7 +17,7 @@ This Python script allows users to track the mention of a specific stock ticker 
 pip install -r requirements.txt
 ```
 
-2. Download and install the Chrome WebDriver from [here](https://developer.chrome.com/docs/chromedriver/downloads).
+2. Download and install the Chrome WebDriver from [here](https://developer.chrome.com/docs/chromedriver/downloads) in the following path.
 > C:\Program Files (x86)\chromedriver.exe
 
 ## Configuration
